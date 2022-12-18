@@ -1,4 +1,4 @@
-import org.example.Cooking;
+import org.example.cook.Cooking;
 import org.example.cook.Cook;
 import org.example.cook.MenuItem;
 import org.junit.jupiter.api.DisplayName;

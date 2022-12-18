@@ -1,4 +1,4 @@
-package org.example;
+package org.example.cook;
 
 import org.example.cook.Cook;
 import org.example.cook.MenuItem;

@@ -15,6 +15,10 @@ public class MenuItem {
         return price;
     }
 
+    public boolean matches(String name) {
+        return this.name.equals(name);
+    }
+
     public String getName() {
         return name;
     }
